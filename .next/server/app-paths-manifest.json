@@ -1,0 +1,5 @@
+{
+  "/pages/cardList/page": "app/pages/cardList/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/pages/first-file/page": "app/pages/first-file/page.js"
+}

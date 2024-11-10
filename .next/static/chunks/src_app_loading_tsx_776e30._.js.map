@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/%D7%A2%D7%AA%D7%99%D7%93%D7%94/Documents/lesson13/NextProject/src/app/loading.tsx"],"sourcesContent":["\"use client\"\r\nimport React from 'react'\r\n\r\nfunction loading() {\r\n  return (\r\n    <div>\r\n      \r\n    </div>\r\n  )\r\n}\r\n\r\nexport default loading\r\n"],"names":[],"mappings":";;;;AAAA;;AAGA,SAAS;IACP,qBACE,6LAAC;;;;;AAIL;uCAEe"}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

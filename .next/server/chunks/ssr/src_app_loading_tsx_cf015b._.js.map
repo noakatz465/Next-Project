@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/src/app/loading.tsx"],"sourcesContent":["\"use client\"\r\nimport React from 'react'\r\n\r\nfunction loading() {\r\n  return (\r\n    <div>\r\n      \r\n    </div>\r\n  )\r\n}\r\n\r\nexport default loading\r\n"],"names":[],"mappings":";;;;AAAA;;AAGA,SAAS;IACP,qBACE,8OAAC;;;;;AAIL;uCAEe"}},
+    {"offset": {"line": 21, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
